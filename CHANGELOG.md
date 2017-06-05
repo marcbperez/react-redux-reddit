@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## 0.3.0 - 2017-06-05
+
+### Added
+
+  - NPM module configuration for this project.
+  - Project public folder with main template and favicon.
+  - Application index, actions, components, containers and reducers.
+
 ## 0.2.0 - 2017-06-03
 
 ### Added
