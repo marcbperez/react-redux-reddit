@@ -1,6 +1,6 @@
 {
   "name": "react-redux-reddit",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "private": true,
   "dependencies": {
     "babel-polyfill": "^6.26.0",
